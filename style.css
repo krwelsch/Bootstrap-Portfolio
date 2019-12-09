@@ -22,3 +22,9 @@ hr {
     border-width: 3px;
     color: whitesmoke
 }   
+
+.bio {
+    font-size: 20px; 
+    margin-right: 6%;
+    color: black;
+}
