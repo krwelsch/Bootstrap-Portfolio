@@ -10,3 +10,15 @@
     border-width: 2px;
 
 }
+
+h1 {
+    margin-left: 3%;
+    margin-top: 2.5%;
+}
+
+hr {
+    display: block;
+    width: 95%;
+    border-width: 3px;
+    color: whitesmoke
+}   
