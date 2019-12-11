@@ -35,3 +35,17 @@ hr {
     font-size: 24px;
     line-height: 30px;
     color: whitesmoke;
+
+#logo {
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    
+}
