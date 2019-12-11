@@ -35,17 +35,29 @@ hr {
     font-size: 24px;
     line-height: 30px;
     color: whitesmoke;
+}
 
-#logo {
-    width: 250px;
-    height: 90px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 90px;
-    color: #ffffff;
-    text-align: center;
-    text-decoration: none;
-    background: #4aaaa5;
-    
+.imgtag {
+    background-color: #3f4952; 
+    z-index: 2; 
+    height: 10%; 
+    padding: 5%; 
+    width: 100%; 
+    position: absolute; 
+    top: 70%; 
+    text-align: center; 
+    line-height: 0; 
+    color: whitesmoke; 
+    font-weight: bold; 
+    font-family:  Verdana, Geneva, Tahoma, sans-serif; 
+    border-color: #2C3E50; 
+    border-style: solid; 
+    border-width: 2px;
+}
+
+.prtflio {
+    max-width: 100%; 
+    border-color: #2C3E50; 
+    border-style: solid; 
+    border-width: 2px;
 }
